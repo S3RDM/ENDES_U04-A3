@@ -1,5 +1,4 @@
 package figuras;
-import java.awt.Color;
 
 /**
  * Clase Cuadrado, define los lados del cuadrado y el color
@@ -8,8 +7,10 @@ import java.awt.Color;
  * @since 2026-03-20
  */
 
+import java.awt.Color;
+
 /**
- * Clase que extiende a la clase Rectangulo
+ * Clase Cuadrado, extiende a la clase Rectangulo
  * @param x Lado x
  * @param y Lado y
  * @param color Color del cuadrado
